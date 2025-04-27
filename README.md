@@ -39,7 +39,7 @@ The package names mentioned below are valid for Debian-based distros.
 - Утечки памяти при использовании отмены/повтора. Проблема скорее всего в моём
   управлении объектами.
 
-## Atribution / Атрибуция
+## Attribution / Атрибуция
 
 The project uses [this](https://github.com/reunanen/qt-image-flood-fill)
 implementation of the flood-fill function (`buckettool.cpp`). See
